@@ -1,4 +1,4 @@
-f(x)=x^5+x^3+3
+f(x)=(x^5+x^3+3)
 a)Bisection method
 #include<iostream> 
 using namespace std; 
