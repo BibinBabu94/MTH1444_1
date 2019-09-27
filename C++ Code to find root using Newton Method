@@ -28,5 +28,5 @@ int main()
         sum+=fact;
     }
     cout<<"The value is "<<sum;
-    return 0
+    return 0;
 }
