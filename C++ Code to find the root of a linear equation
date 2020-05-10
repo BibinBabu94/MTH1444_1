@@ -1,5 +1,6 @@
 f(x)=(x^5+x^3+3)
 a)Bisection method
+
 #include<iostream> 
 using namespace std; 
 define EPSILON 0.001
